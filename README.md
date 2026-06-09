@@ -1,4 +1,5 @@
-# Demo_repository
-This is my first demo repository of my github account 
+# ðŸ”¬ Demo Repository
 
-here I m chaning or modiifying in the file 
+> My first GitHub repository â€” a sandbox for learning Git workflows, branching strategies, and version control best practices.
+
+**Author:** [Gagan Diwakar](https://github.com/Divgagan) | [Portfolio](https://portfolio-gagan-nu.vercel.app/)
